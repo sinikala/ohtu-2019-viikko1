@@ -49,7 +49,7 @@ public class VarastoTest {
     @Test
     public void saldollinenKonstruktorinSaldoEiYlitaTilavuutta(){
         Varasto liikaaSaldoa = new Varasto(2,10);
-        assertEquals(-2, liikaaSaldoa.getSaldo(),vertailuTarkkuus);
+        assertEquals(2, liikaaSaldoa.getSaldo(),vertailuTarkkuus);
     }
 
     @Test

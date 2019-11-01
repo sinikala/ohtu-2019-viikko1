@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f616150-13da-4942-a1c1-2ec648c12cde" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ohtu/ohtuvarasto/VarastoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ohtu/ohtuvarasto/VarastoTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -52,7 +51,7 @@
             <entry file="file://$PROJECT_DIR$/src/test/java/ohtu/ohtuvarasto/VarastoTest.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="446">
-                  <caret line="51" column="64" selection-start-line="51" selection-start-column="64" selection-end-line="51" selection-end-column="64" />
+                  <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
                   <folding>
                     <element signature="e#2030#2031#0" expanded="true" />
                     <element signature="e#2059#2060#0" expanded="true" />
@@ -156,6 +155,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
@@ -211,14 +211,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572534492605</updated>
-      <workItem from="1572534493880" duration="3759000" />
+      <workItem from="1572534493880" duration="4363000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="VarastoTest - 2019.10.31 at 17h 28m 15s.xml">
-      <configuration name="VarastoTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="VarastoTest - 2019.11.01 at 10h 57m 38s.xml">
       <configuration name="VarastoTest" configurationId="JUnit" />
     </history-entry>
@@ -246,9 +243,12 @@
     <history-entry file="VarastoTest - 2019.11.01 at 11h 20m 17s.xml">
       <configuration name="VarastoTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="VarastoTest - 2019.11.01 at 11h 23m 12s.xml">
+      <configuration name="VarastoTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3759000" />
+    <option name="totallyTimeSpent" value="4363000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1054" extended-state="6" />
@@ -303,7 +303,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/ohtu/ohtuvarasto/VarastoTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="446">
-          <caret line="51" column="64" selection-start-line="51" selection-start-column="64" selection-end-line="51" selection-end-column="64" />
+          <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
           <folding>
             <element signature="e#2030#2031#0" expanded="true" />
             <element signature="e#2059#2060#0" expanded="true" />
